@@ -19,10 +19,10 @@ except ImportError:
     HAS_COPY_BTN = False
 
 # --- Config ---
-TOKEN = "8332473503:AAFvgTSIEdiCWiPwAJq7uKm2Dg_hMmgydRg"
-ADMIN_ID = 8197284774
+TOKEN = "8712078921:AAEyaI9wfab8-iOcd-TFfqvN3h-bagalfpo"
+ADMIN_ID = 6668016879
 BASE_URL = "http://185.190.142.81"
-NEXA_API_KEY = "nxa_9ad17cea99f85040fde8eb4fabdbff6f47f1e613"
+NEXA_API_KEY = "nxa_1a440d9fd9df7c320e4f61f8b221fe8663ffdd40"
 
 bot = telebot.TeleBot(TOKEN)
 DATA_FILE = "dxa_bot_premium_data_v4.json"
